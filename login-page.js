@@ -9,7 +9,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "perthBTP5_0" && password === "sealHeb81012") {
         alert("You have successfully logged in.");
-        window.location.href = "https://funky-wave-252.notion.site/EDUZION-f7f7b1afe2c349a988b6537e5b503c36?pvs=4";
+        window.location.href = "https://funky-wave-252.notion.site/BTP5-998cf1475e264d76b23c6913bf531411?pvs=4";
     } else {
         loginErrorMsg.style.opacity = 1;
     }
