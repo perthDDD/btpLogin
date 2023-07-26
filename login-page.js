@@ -7,7 +7,7 @@ loginButton.addEventListener("click", (e) => {
     const username = loginForm.username.value;
     const password = loginForm.password.value;
 
-    if (username === "perthTGW500" && password === "uniteAs1Acheive") {
+    if (username === "perthBTP5_0" && password === "sealHeb81012") {
         alert("You have successfully logged in.");
         window.location.href = "https://funky-wave-252.notion.site/TGW-Education-eb3b662e83444e56a9a3ca05cb287870?pvs=4";
     } else {
